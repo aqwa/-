@@ -12,3 +12,4 @@ start "" /B npm install -- save chalk
 start "" /B npm install -- save physical-cpu-count
 start "" /B npm install -- save figlet
 start "" /B npm install -- save chalk-animation
+start "" /B npm install -- save enmap
